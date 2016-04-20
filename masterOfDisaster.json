@@ -17,12 +17,57 @@
     "assets" : [
         {
             "assetid" : "BKC",
-            "confirmations" : 6,
+            "confirmations" : 3,
             "reqsigners" : 3,
-            "totalsigners" : 6,
-            "maxtrade" : 1000.0,
-            "mintrade" : 1.0,
+            "totalsigners" : 5,
+            "maxtrade" : 10.0,
+            "mintrade" : 0.05,
             "unitexponent" : 4
+        },
+        {
+            "assetid" : "BKS",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 2.0,
+            "mintrade" : 0.01,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "BTC",
+            "confirmations" : 1,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 0.02,
+            "mintrade" : 0.001,
+            "unitexponent" : 8
+        },
+        {
+            "assetid" : "NBT",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 10.0,
+            "mintrade" : 0.05,
+            "unitexponent" : 4
+        },
+        {
+            "assetid" : "NSR",
+            "confirmations" : 3,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 4000.0,
+            "mintrade" : 0.001,
+            "unitexponent" : 8
+        },
+        {
+            "assetid" : "PPC",
+            "confirmations" : 1,
+            "reqsigners" : 3,
+            "totalsigners" : 5,
+            "maxtrade" : 20.0,
+            "mintrade" : 0.1,
+            "unitexponent" : 6
         }
     ]
 }
