@@ -1,0 +1,27 @@
+{
+    "custodians" : [
+    ],
+    "parkrates" : [
+    ],
+    "motions" : [
+    ],
+    "fees" : {
+    },
+    "reputations" : [
+    ],
+    "signerreward" : {
+        "count" : null,
+        "amount" : null
+    },
+    "assets" : [
+        {
+            "assetid" : "BKC",
+            "confirmations" : 6,
+            "reqsigners" : 3,
+            "totalsigners" : 6,
+            "maxtrade" : 1000.0,
+            "mintrade" : 1.0,
+            "unitexponent" : 4
+        }
+    ]
+}
